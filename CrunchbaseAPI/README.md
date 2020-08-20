@@ -1,7 +1,8 @@
 This package is the final project of my class.
 
-I've tried to add as much functionalities as I can, and they work very well.
-For the requirement, it is quite possible that packages with lower versions could also work.
+I've tried to add as much functionalities as I can, and they work very well. 
+All functions are well documented.
+For the requirement.txt, it is quite possible that packages with lower versions could also work.
 
 Good luck with the research.
 
