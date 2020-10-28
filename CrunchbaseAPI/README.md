@@ -1,6 +1,6 @@
 This package is the final project of my class.
 
-I've tried to add as much functionalities as I can, and they work very well. 
+I have tried to add as much functionalities as I can, and they work very well. 
 
 All functions are well documented.
 
@@ -15,7 +15,7 @@ Steps to install:
 (1)Download this package
 
 (2)In the command line / terminal(mac) change the working direction to the package direction.
-e.g. If download this package at /Users/wanghaojie/Desktop/ file, 
+e.g. if download this package at /Users/wanghaojie/Desktop/ file, 
 enter and run: cd /Users/wanghaojie/Desktop/CrunchbaseAPI
 
 (3)Enter and run: python setup.py build
